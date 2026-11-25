@@ -1,0 +1,4 @@
+# LF everywhere, on every checkout: gofmt and the doc-matches-code test compare text, and the Windows
+# runner would otherwise check files out with CRLF.
+* text=auto eol=lf
+*.exe binary

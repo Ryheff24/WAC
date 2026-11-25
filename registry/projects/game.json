@@ -1,0 +1,6 @@
+{
+  "name": "game",
+  "root": "C:\\Users\\user\\agent-lab\\game",
+  "wsl_root": "/home/user/projects/game",
+  "lab_vms": ["game-lab"]
+}

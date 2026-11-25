@@ -1,0 +1,17 @@
+*.exe
+*.test
+/testbin/
+/.gocache/
+/.mcp.json
+# What Claude Code's sandbox mounts over files in a project root (character devices), which git sees as
+# untracked there (review 2026-11-21, #13).
+/.bashrc
+/.bash_profile
+/.profile
+/.zshrc
+/.zprofile
+/.gitconfig
+/.gitmodules
+/.ripgreprc
+/.idea
+/.vscode

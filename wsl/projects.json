@@ -1,0 +1,27 @@
+{
+  "projects": [
+    {
+      "name": "game",
+      "root": "/home/user/projects/game",
+      "protected": [
+        "GNUmakefile",
+        "Makefile",
+        "makefile",
+        "CLAUDE.md",
+        "AGENTS.md",
+        "scripts",
+        "pull-prior-art.sh",
+        "pull-prior-art.ps1",
+        ".claude",
+        ".mcp.json",
+        ".git"
+      ],
+      "untrusted": [
+        "prior-art",
+        "downloads",
+        "lab-out"
+      ],
+      "lab_in": "/mnt/c/Users/user/agent-lab/game/lab-in"
+    }
+  ]
+}
